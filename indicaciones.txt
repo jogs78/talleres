@@ -1,0 +1,3 @@
+
+chmod 777 app/storage -R
+artisan migrate:refresh
